@@ -1,0 +1,5 @@
+﻿  kod.cpp
+C:\Users\DELL\source\repos\Курсовая\kod.cpp(170): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DELL\source\repos\Курсовая\kod.cpp(196): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DELL\source\repos\Курсовая\kod.cpp(313): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Курсовая.vcxproj -> C:\Users\DELL\source\repos\Курсовая\Debug\Курсовая.exe
